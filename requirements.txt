@@ -3,3 +3,4 @@ pillow
 requests
 colorama
 webdriver_manager
+guara
