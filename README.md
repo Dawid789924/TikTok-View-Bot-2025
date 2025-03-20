@@ -49,4 +49,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to explore the repository, delve into the code, and start boosting your TikTok views effortlessly. Happy botting! 🎉
 
 .mit-lic
-
